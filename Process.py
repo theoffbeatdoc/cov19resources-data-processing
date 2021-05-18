@@ -1,8 +1,8 @@
 import os
 import re
 
-rawdata = "RD_RawData.txt"
-basedata = "Base_Data.txt"
+rawdata = "RawData.txt"
+basedata = "BaseData.txt"
 dataset = set()
 r = open(rawdata, "r")
 b = open(basedata, "r")
