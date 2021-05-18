@@ -1,7 +1,4 @@
-# P-cov19resources-data-processing
+# cov19resources-data-processing
  
- - Paste the column of Contact numbers from the database into the `BaseDataSource.txt` file.
- - Run `Base_Level.py`
- - Paste the set of raw data containing contact numbers into the `RawDataSource.txt` file. 
- - Run `Raw_Level.py`
- - Run `Process.py`
+ - Run the `Main.exe` after downloading the latest release of The OffBeat Doc - COV-19 RESOURCES DATA PROCESSOR.
+ - This utility has not been designed for public use. It has been developed for usage within our cov19resources volunteer team.
